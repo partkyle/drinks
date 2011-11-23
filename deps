@@ -59,3 +59,7 @@
     git=http://github.com/symfony/AsseticBundle.git
     target=/bundles/Symfony/Bundle/AsseticBundle
     version=v1.0.1
+
+[MopaBootstrapBundle]
+    git=http://github.com/phiamo/MopaBootstrapBundle.git
+    target=/bundles/Mopa/BootstrapBundle
